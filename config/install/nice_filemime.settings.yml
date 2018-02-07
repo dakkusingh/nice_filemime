@@ -6,7 +6,7 @@
 # Complete list of mimetypes sourced from:
 # https://www.freeformatter.com/mime-types-list.html
 
-nice_filemime.settings:
+nice_filemimes:
   application/vnd_@_hzn-3d-crossword: 3D Crossword Plugin
   video/3gpp: 3GP
   video/3gpp2: 3GP2
@@ -125,7 +125,7 @@ nice_filemime.settings:
   audio/vnd_@_dece_@_audio: DECE Audio
   image/vnd_@_dece_@_graphic: DECE Graphic
   video/vnd_@_dece_@_hd: DECE High Definition Video
-  video/vnd.dece_@_mobile: DECE Mobile Video
+  video/vnd_@_dece_@_mobile: DECE Mobile Video
   video/vnd_@_uvvu_@_mp4: DECE MP4
   video/vnd_@_dece_@_pd: DECE PD Video
   video/vnd_@_dece_@_sd: DECE SD Video
